@@ -6,5 +6,9 @@
 	<Extension path="/MonoDevelop/Ide/StartupHandlers">
 		<Class class="TestChangingAddinDependency.StartupHandler" />
 	</Extension>
+
+	<Extension path="/MonoDevelop/UnitTesting/TestProviders">
+ 		<Class id="TestChangingAddinTestProvider" class="TestChangingAddinDependency.TestProvider" />
+ 	</Extension>
 	
 </ExtensionModel>
