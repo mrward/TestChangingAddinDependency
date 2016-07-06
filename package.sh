@@ -1,0 +1,1 @@
+mono /Applications/Xamarin\ Studio.app/Contents/Resources/lib/monodevelop/bin/mdtool.exe setup pack TestChangingAddinDependency/bin/Debug/TestChangingAddinDependency.dll
